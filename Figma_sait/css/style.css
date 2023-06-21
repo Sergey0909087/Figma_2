@@ -1,0 +1,19 @@
+body {
+    background: #162831;
+}
+
+a{
+width: 56px;
+height: 19px;
+font-family: 'Proxima Nova';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 135%;
+color: #FFF;
+flex: none;
+order: 5;
+flex-grow: 0;
+margin-left: 40px;
+
+}
